@@ -1,0 +1,1 @@
+An AI-powered Emotion Recognition system that uses Machine Learning and Computer Vision to identify human emotions from facial expressions. The project analyzes facial features to classify emotions such as happiness, sadness, anger, fear, surprise, and neutrality, demonstrating the practical application of AI, image processing, and deep learning.
